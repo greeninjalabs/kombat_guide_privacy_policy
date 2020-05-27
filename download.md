@@ -1,11 +1,13 @@
 
 Kombat Guide is a free mobile app to use while playing Mortal Kombat 11.
 
-- All frame data (excluding Special Moves / Abilities — only Tournament Variations)
+- Fujin, Sheeva, and Robocop added
+- All frame data
 - Tier List
 - Kustom app theme choosing
 - Kreate a Kombo — keep track of your kombos in the app
 - Kustom Input preference
+- Keep screen on option
 
 # [Click here to download for iOS](https://apps.apple.com/us/app/kombat-guide/id1473898049?ign-mpt=uo%3D2)
 
